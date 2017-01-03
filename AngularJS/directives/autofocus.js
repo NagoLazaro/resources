@@ -1,4 +1,4 @@
-angular.module('sampleapp', [ ]);
+var myapp = angular.module('sampleapp', [ ]);
 
 myapp.controller('samplecontoller', function ($scope) {
 
